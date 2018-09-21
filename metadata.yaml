@@ -1,11 +1,16 @@
 _repo: A-serious-proposal-to-the-Ladies-for-the-advancement-of-their-true-and-greatest-interest-In-T__54984
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54984-h/images/cover.jpg
 creator:
   author:
     agent_name: Astell, Mary
     gutenberg_agent_id: '48143'
     url: http://www.gutenberg.org/2009/agents/48143
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54984#A-serious-proposal-to-the-Ladies-for-the-advancement-of-their-true-and-greatest-interest-In-T_
 gutenberg_issued: '2017-06-26'
 gutenberg_type: Text
 identifiers:
